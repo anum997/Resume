@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anum Amin - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1, h2, h3 {
+            color: #333;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Anum Amin</h1>
+    <h2>Data Scientist/ Data Analyst</h2>
+
+    <p>
+        E-mail: <a href="mailto:anumamin997@gmail.com">anumamin997@gmail.com</a> | 
+        Cell: <a href="tel:+16472627796">(647)-262-7796</a>
+    </p>
+
+    <h3>Education</h3>
+    <ul>
+        <li>Bachelor of Science - Honours Math and Statistics</li>
+        <li>McMaster University, Hamilton, ON | Expected in 2025</li>
+        <li>Certificates: SQL, HTML, Python, First Aid/CPR, Honours Certificate of Bilingual Studies (French Immersion)</li>
+    </ul>
+
+    <h3>Experience</h3>
+    <ul>
+        <li>Tutor Assistant at Kumon Learning Centre, January 2017 - Present</li>
+        <li>
+            Responsibilities:
+            <ul>
+                <li>Worked with and taught children in areas of math & reading.</li>
+                <li>Entered progress data information for each student in a spreadsheet.</li>
+                <li>Updated parents on students' development and addressed any concerns they may have.</li>
+                <li>Restocked inventory to organize the center and maintain efficiency.</li>
+            </ul>
+        </li>
+
+        <li>Part-time Seasonal Store Associate at Winners, November 2021 - January 2022</li>
+        <li>
+            Responsibilities:
+            <ul>
+                <li>Provided service by greeting and assisting customers, helping obtain merchandise based on customer needs.</li>
+                <li>Exchanged merchandise and accepted customer returns.</li>
+                <li>Kept up with current discounts and offers, payment and return policies, and security procedures.</li>
+            </ul>
+        </li>
+
+        <li>Volunteer at Local Youth Festival, MyFest, April 2016 - Present</li>
+        <li>
+            Responsibilities:
+            <ul>
+                <li>Engaged kids in activities.</li>
+                <li>Collaborated with others by contributing time, efforts, and talent to advance needs.</li>
+                <li>Assisted with and organized programs.</li>
+            </ul>
+        </li>
+
+        <li>Volunteer at Non-profit organization, ABAW Foundation, May 2020 - August 2020</li>
+        <li>
+            Responsibilities:
+            <ul>
+                <li>Exported Covid-19 care packages to Pakistan and around the GTA.</li>
+                <li>Provided thousands of families with essential supplies during the global pandemic.</li>
+                <li>Worked in a fast environment while exercising effective problem-solving skills.</li>
+            </ul>
+        </li>
+
+        <li>Volunteer at RIS Convention, December 2024</li>
+        <li>
+            Responsibilities:
+            <ul>
+                <li>Ensured that attendees are following convention rules.</li>
+                <li>Assisted attendees in finding a seat.</li>
+                <li>Addressed any inquiries and led individuals to different areas.</li>
+                <li>Confirmed that each participant has signed up and received a wristband.</li>
+            </ul>
+        </li>
+        <!-- Add more work experience entries as needed -->
+    </ul>
+
+    <h3>Skills</h3>
+    <ul>
+        <li>Proficiency in Python, SQL, HTML and R/RStudio, Excel, and basic computer skills.</li>
+        <li>Language fluency in English, French, and Urdu.</li>
+        <li>Demonstrated time management and multitasking skills, balancing full-time academics and part-time job.</li>
+        <li>Excellent problem-solving and critical thinking skills.</li>
+        <li>Effective teamwork and collaborative skills.</li>
+    </ul>
+</body>
+</html>
